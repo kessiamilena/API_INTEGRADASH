@@ -31,4 +31,5 @@ public class UsuarioModel implements Serializable {
 
     // Provisóriamente String, será alterado para TipoModel enum
 
+    
 }
